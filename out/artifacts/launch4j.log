@@ -1,0 +1,26 @@
+
+
+Version:	3.12
+CmdLine:	D:\ ниги по Jave\RandomPasswordGenerator\out\artifacts\Random.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\ ниги по Jave\RandomPasswordGenerator\out\artifacts\.
+Java min ver:	1.004.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Match:		1.011.000
+Runtime used:	1.011.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "D:\ ниги по Jave\RandomPasswordGenerator\out\artifacts\Random.exe"
+Args length:	72/32768 chars
+Exit code:	0
